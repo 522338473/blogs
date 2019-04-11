@@ -1,2 +1,1 @@
-# blogs
-My personal blog.
+# Welcome to Mr_zhang's Blog! :octocat:
